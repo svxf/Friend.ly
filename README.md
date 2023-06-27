@@ -21,14 +21,14 @@
 
 ### Home page (light & dark mode)
 <div align="center">
-  <img src="https://github.com/svxf/Friend.ly/assets/60079016/e4a3ef96-bd58-4444-aaa0-0f48b60fad7b" alt="Friend.ly Home Page Light Mode">
-  <img src="https://github.com/svxf/Friend.ly/assets/60079016/043dedd7-4fd9-4286-8a5f-9a3e726fb6a3" alt="Friend.ly Home Page Dark Mode">
+  <img src="https://github.com/svxf/Friend.ly/assets/60079016/0c9b27f2-82ea-4a0e-9d2f-c235cc6eb4a0" alt="Friend.ly Home Page Light Mode">
+  <img src="https://github.com/svxf/Friend.ly/assets/60079016/a27eea03-290a-4a73-81c6-885c95dcc00f" alt="Friend.ly Home Page Dark Mode">
 </div>
 
 ### Other Previews
 <div align="center">
-  <img src="https://github.com/svxf/Friend.ly/assets/60079016/98e98b0e-1e40-4e1b-b48d-7baa16581256" alt="Friend.ly Preview 1">
-  <img src="https://github.com/svxf/Friend.ly/assets/60079016/ecb9949b-0d19-49b6-b72d-e710605f2240" alt="Friend.ly Preview 2">
+  <img src="https://github.com/svxf/Friend.ly/assets/60079016/63c8eea0-e942-4ecc-b150-dae008f97336" alt="Friend.ly Preview 1">
+  <img src="https://github.com/svxf/Friend.ly/assets/60079016/504c781c-aaae-4867-b977-4db9c894e02f" alt="Friend.ly Preview 2">
 </div>
 
 ### Running
