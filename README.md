@@ -17,7 +17,7 @@
 - **Like and Comment:** Engage with posts by liking them and leaving comments to spark conversations.
 - **Dark Mode:** Enjoy a visually pleasing experience with a dark mode option.
 
-## Previews
+## 📷 Previews
 
 ### Home page (light & dark mode)
 <div align="center">
@@ -31,6 +31,6 @@
   <img src="/resources/login_page.png" alt="Friend.ly Preview 2">
 </div>
 
-### Running
+### 🚀 Running
 - You need to run the server backend which you can do by going to the ``server`` directory and running the command ``node index.js``
 - You then have to run the frontend by going to the ``client`` directory and running the command ``npm start``
